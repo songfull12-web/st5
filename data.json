@@ -1,0 +1,31 @@
+{
+  "name": "Satellogic Inc.",
+  "ticker": "SATL",
+  "score": 53,
+  "conviction": "관망 - 진입 보류",
+  "price": "$ 9.84",
+  "date": "2026-05-18",
+  "details": [
+    {
+      "name_kr": "자기자본이익률",
+      "name_en": "ROE",
+      "value": "0.0%",
+      "status": "미달",
+      "color": "bg-red-900/50 text-red-300"
+    },
+    {
+      "name_kr": "상대강도 지수",
+      "name_en": "RSI (14)",
+      "value": "69.5",
+      "status": "강세",
+      "color": "bg-green-900/50 text-green-300"
+    },
+    {
+      "name_kr": "기관 수급",
+      "name_en": "Institutional Flow",
+      "value": "82.4",
+      "status": "매집",
+      "color": "bg-blue-900/50 text-blue-300"
+    }
+  ]
+}
